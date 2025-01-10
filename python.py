@@ -1,3 +1,1 @@
-sdf
-adf 
-aaasdas
+print("akshat")
